@@ -1,0 +1,9 @@
+pip install tensorflow
+pip install pillow
+pip install nltk
+pip install wordcloud
+pip install matplotlib
+pip install scikit-learn
+pip install seaborn
+pip install pandas
+
